@@ -1,0 +1,14 @@
+{
+  "name": "pw_restfulapi",
+  "version": "1.0.0",
+  "description": "my demo and first restfulApi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamal Nayan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
